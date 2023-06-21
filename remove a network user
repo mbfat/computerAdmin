@@ -1,0 +1,14 @@
+https://community.spiceworks.com/topic/2332241-can-i-remove-a-user-and-their-files-from-a-domain-connected-pc-without-wiping
+
+Assuming Windows 10 and that you are logged in as a local administrator -- not the user that you want to delete:
+
+    Open Window Settings
+    Search for Advanced System Settings and open "View Advanced System Settings".
+    Click Settings in the User Profiles section. Image: post content
+    Select the User Profile that you want to remove and click Delete.  Deleting the profile can take some time.  Be patient.
+
+
+
+
+
+    
